@@ -1,4 +1,4 @@
 Membres :
-	-Aarji Aarji
-	-Admessiev Ayoub
-	-Sahli Mootez
+ - Aarji Aarji
+ - Admessiev Ayoub
+ - Sahli Mootez
